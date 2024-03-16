@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0063bad.css",
+    "main.js": "/static/js/main.9b0d6b3c.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/doctor_with_phone.png": "/static/media/doctor_with_phone.3b8a49e9bd75ee322ba7.png",
+    "static/media/home_page_bg.png": "/static/media/home_page_bg.ec01fa21aa3668e308d8.png",
+    "static/media/doc_pulse.png": "/static/media/doc_pulse.3e80a7b18fc0995601f9.png",
+    "index.html": "/index.html",
+    "main.b0063bad.css.map": "/static/css/main.b0063bad.css.map",
+    "main.9b0d6b3c.js.map": "/static/js/main.9b0d6b3c.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0063bad.css",
+    "static/js/main.9b0d6b3c.js"
+  ]
+}
