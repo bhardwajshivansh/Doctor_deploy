@@ -1,0 +1,43 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(40, 116, 182);
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../images/doc_pulse.png);
+
+}
+.register-form{
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+justify-content: center;
+background-color: rgb(226, 234, 237);
+}
+h1{
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(61, 62, 61);
+}
+.card{
+    position: absolute;
+    justify-content: center;
+    background-color: rgb(223, 228, 232);
+    width: 300px;
+    height: 200px;
+}
+.registerlink{
+    position: relative;
+font-size: large;
+text-align: center;
+color: black;
+text-decoration: none;
+}
+.loginlink{
+    position: relative;
+    font-size: large;
+    color: black;
+    left: 28%;
+    text-decoration: none;
+}

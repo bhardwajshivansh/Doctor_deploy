@@ -1,0 +1,37 @@
+{
+  "name": "doc.help",
+  "version": "1.0.0",
+  "description": "Doctor Appointment System Management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ./client",
+    "dev": "concurrently \"npm start\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhardwajshivansh/Doc.help.git"
+  },
+  "keywords": [],
+  "author": "Janhavi,Pratham,Shivansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhardwajshivansh/Doc.help/issues"
+  },
+  "homepage": "https://github.com/bhardwajshivansh/Doc.help#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "concurrently": "^7.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  }
+}
